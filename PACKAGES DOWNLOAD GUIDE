@@ -16,17 +16,17 @@ Se Python è già installato
     Python 3.10.11
 
 Aggiornare pip
-  usa il comando "python -m pip install --upgrade pip setuptools wheel"
+  Usa il comando "python -m pip install --upgrade pip setuptools wheel"
 
 Installa MediaPipe
-  pip install mediapipe
+  "pip install mediapipe"
 Installa OpenCV
-  pip install opencv-python
+  "pip install opencv-python"
 Installa OSC
-  pip install python-osc
+  "pip install python-osc"
 
 Oppure installarli tutti insieme:
-  pip install mediapipe opencv-python python-osc
+  "pip install mediapipe opencv-python python-osc"
 
 verifica l'installazione dei pacchetti
  All’interno di qualsiasi ambiente Python (IDLE, VS Code, PyCharm, ecc.) esegui:
